@@ -4,7 +4,7 @@
 >
 > Adversarial premortem for UK litigation. Premotion synthesises the lost version of your case, then runs multi-model analysis on why we lost. Eight specialists, four failure categories, one brief. For solicitors, in-house counsel, mediators and litigation funders.
 
-**[Live demo →](https://steelman-liard.vercel.app)**
+**[Live demo →](https://premotion.io)**
 
 You think you've built the strongest version of your case. Premotion runs it through a structured adversarial pipeline of orchestrated sub-agents to find out where it actually loses — the procedural, substantive, evidentiary and strategic failure modes opposing counsel will pull on first.
 
